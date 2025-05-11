@@ -1,0 +1,10 @@
+a=5
+b=10
+c=15
+print("sum:",a+b)
+print("subt:",a-b)
+print("multi:",a*b)
+print("div:",a/b)
+print("mod:",a%b)
+print("great:",a<b)
+print("less:",a>b)
